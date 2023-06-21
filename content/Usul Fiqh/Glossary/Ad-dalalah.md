@@ -1,0 +1,1 @@
+What an evidence indicates towards i.e. trying to prove establishment of prayer from Qur'anic ayahs

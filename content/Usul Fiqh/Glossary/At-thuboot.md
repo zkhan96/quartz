@@ -1,0 +1,1 @@
+Where it comes from i.e. Is it an established evidence? Is it [[mutawatir]]?
