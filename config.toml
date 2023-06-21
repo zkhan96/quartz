@@ -1,6 +1,6 @@
 baseURL = "https://dars.zohaibkhan.co.uk/"
 languageCode = "en-us"
-relativeURLs = false
+relativeURLs = true
 disablePathToLower = true
 ignoreFiles = [
     "/content/templates/*",
