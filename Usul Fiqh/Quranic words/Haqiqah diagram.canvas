@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"type":"text","text":"Mahjoorah\nit is near impossible due to societal norms (‘urfan) and shari’ah","id":"d914858f7af74bd4","x":-180,"y":-50,"width":244,"height":130,"color":"2"},
+		{"type":"text","text":"Muta’ddhirah\nit is near impossible to achieve it","id":"7a0b60aa24659d0a","x":-480,"y":-50,"width":250,"height":90,"color":"1"},
+		{"type":"text","text":"Haqiqah","id":"df7171cdc8f82a52","x":-61,"y":-320,"width":250,"height":60},
+		{"type":"text","text":"Musta’malah\nwhere urfan and shar’an it is accepted and practiced, and it is wajib to do aml upon it ","id":"31e7b3d66efeca48","x":160,"y":-50,"width":250,"height":150,"color":"3"},
+		{"type":"text","text":"Qaasirah\nit is allowed in the shariah potentially, but societal norm will dictate whether it is possible or not","id":"8d603baff8881ce8","x":480,"y":-50,"width":255,"height":150,"color":"5"}
+	],
+	"edges":[
+		{"id":"91416e09ae739a35","fromNode":"df7171cdc8f82a52","fromSide":"bottom","toNode":"7a0b60aa24659d0a","toSide":"top"},
+		{"id":"a8be2eeea52a7cbc","fromNode":"df7171cdc8f82a52","fromSide":"bottom","toNode":"d914858f7af74bd4","toSide":"top"},
+		{"id":"0ca9934c1cf232ae","fromNode":"df7171cdc8f82a52","fromSide":"bottom","toNode":"31e7b3d66efeca48","toSide":"top"},
+		{"id":"9b9455d7b605eb74","fromNode":"df7171cdc8f82a52","fromSide":"bottom","toNode":"8d603baff8881ce8","toSide":"top"}
+	]
+}
