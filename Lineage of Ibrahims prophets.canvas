@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4c1a94788aa7ea86","x":-120,"y":-80,"width":250,"height":60,"color":"3","type":"text","text":"Ibrahim"},
+		{"id":"702f924f227c5c11","x":-320,"y":120,"width":250,"height":60,"color":"2","type":"text","text":"Ismail"},
+		{"id":"6d938d8379264cce","x":100,"y":120,"width":250,"height":60,"color":"5","type":"text","text":"Ishaq"},
+		{"id":"70f63a3433c68858","x":-320,"y":300,"width":250,"height":60,"color":"1","type":"text","text":"All of the prophets"},
+		{"id":"b922e88874e20090","x":100,"y":300,"width":250,"height":60,"color":"4","type":"text","text":"Nabi ﷺ "}
+	],
+	"edges":[
+		{"id":"0b798244dfbc6a8b","fromNode":"4c1a94788aa7ea86","fromSide":"bottom","toNode":"702f924f227c5c11","toSide":"top"},
+		{"id":"80f71d8ea1f63d4d","fromNode":"4c1a94788aa7ea86","fromSide":"bottom","toNode":"6d938d8379264cce","toSide":"top"},
+		{"id":"767d202c2c0617d1","fromNode":"702f924f227c5c11","fromSide":"bottom","toNode":"70f63a3433c68858","toSide":"top"},
+		{"id":"7f1f444892f54c76","fromNode":"6d938d8379264cce","fromSide":"bottom","toNode":"b922e88874e20090","toSide":"top"}
+	]
+}
