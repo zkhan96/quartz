@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"type":"group","id":"5f07d74f408d82d5","x":-304,"y":-220,"width":290,"height":460,"label":"Clear/precise"},
+		{"type":"group","id":"07410652be9ef985","x":100,"y":-219,"width":290,"height":459,"label":"Ambiguous"},
+		{"type":"text","text":"[Muhkam](Usul%20Fiqh/Quranic%20words/Muhkam.md)","id":"e2f6ba9b8ec63bc5","x":-284,"y":-200,"width":250,"height":60,"color":"#00ff00"},
+		{"type":"text","text":"[Mufassar](Usul%20Fiqh/Quranic%20words/Mufassar.md)","id":"8329edc4d91fb82c","x":-284,"y":-79,"width":250,"height":60,"color":"#aeff00"},
+		{"type":"text","text":"[Nass](Usul%20Fiqh/Quranic%20words/Nass.md)","id":"147d4b940b1c8a84","x":-284,"y":40,"width":250,"height":60,"color":"#d4ff00"},
+		{"type":"text","text":"[Dhahir](Usul%20Fiqh/Quranic%20words/Dhahir.md)","id":"c885c222f21d7ebe","x":-284,"y":157,"width":250,"height":63,"color":"#ffff00"},
+		{"type":"text","text":"[Mujmal](Usul%20Fiqh/Quranic%20words/Mujmal.md)","id":"2b9a3d185d3875d1","x":120,"y":-78,"width":250,"height":60,"color":"#ff4800"},
+		{"type":"text","text":"[Mushkil](Usul%20Fiqh/Quranic%20words/Mushkil.md)","id":"3c137ab0210d692d","x":120,"y":41,"width":250,"height":60,"color":"#ffbb00"},
+		{"type":"text","text":"[Mutashabih](Usul%20Fiqh/Quranic%20words/Mutashabih.md)","id":"ae9c899d54e50b72","x":120,"y":-199,"width":250,"height":60,"color":"#ff0000"},
+		{"type":"text","text":"[Khafiy](Usul%20Fiqh/Quranic%20words/Khafiy.md)","id":"32256d85e63d3e88","x":120,"y":160,"width":250,"height":60,"color":"#ffff00"},
+		{"type":"text","text":"The greener, the more precise, the redder, the more ambiguous","id":"21ba079f06a007f6","x":-80,"y":-400,"width":250,"height":96}
+	],
+	"edges":[
+		{"id":"2abf89c7c09e960d","fromNode":"e2f6ba9b8ec63bc5","fromSide":"bottom","toNode":"8329edc4d91fb82c","toSide":"top"},
+		{"id":"c32260ffe5d548f5","fromNode":"8329edc4d91fb82c","fromSide":"bottom","toNode":"147d4b940b1c8a84","toSide":"top"},
+		{"id":"d4b338b44366c217","fromNode":"147d4b940b1c8a84","fromSide":"bottom","toNode":"c885c222f21d7ebe","toSide":"top"},
+		{"id":"5e43f162a5f3bf7a","fromNode":"c885c222f21d7ebe","fromSide":"right","toNode":"32256d85e63d3e88","toSide":"left"},
+		{"id":"671d367a7c0f21ba","fromNode":"32256d85e63d3e88","fromSide":"top","toNode":"3c137ab0210d692d","toSide":"bottom"},
+		{"id":"62277005cac27fef","fromNode":"3c137ab0210d692d","fromSide":"top","toNode":"2b9a3d185d3875d1","toSide":"bottom"},
+		{"id":"cb5e5535049b3dc8","fromNode":"2b9a3d185d3875d1","fromSide":"top","toNode":"ae9c899d54e50b72","toSide":"bottom"}
+	]
+}
