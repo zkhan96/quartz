@@ -1,1 +1,0 @@
-A Muslim who is bound by shari'ah
