@@ -1,0 +1,4 @@
+---
+title: "Baqarah 164"
+---
+Allah speaks on the alternating between day and night, and the boats that carry cargo and bounties across the world. And the water that descends from the skies. Water itself comes from the clouds, but the reason the skies have been said is because the clouds are still above us. Allah then speaks about how the water revives the earth after it was completely dead. And He spreads from it from all kinds of animal. And the circulation of the winds across the earth. And the clouds that obey the command of Allah between the skies and the earth. In all of these things, there are big signs for the people who reflect. In every one of these signs, there is such beauty, wisdom, and necessary for our survival. All of these signs are so vital for our survival and it was been placed for us to continue existing.

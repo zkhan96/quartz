@@ -1,0 +1,314 @@
+{
+  "index": {
+    "links": {
+      "/": [
+        {
+          "source": "/",
+          "target": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "text": "Introduction to Usul Fiqh"
+        },
+        {
+          "source": "/",
+          "target": "/Usul-Fiqh/Quranic-words/Understanding-Quranic-words",
+          "text": "Understanding Qur'anic words"
+        }
+      ],
+      "/Usul-Fiqh/Glossary/At-thuboot": [
+        {
+          "source": "/Usul-Fiqh/Glossary/At-thuboot",
+          "target": "/Usul-Fiqh/Glossary/mutawatir",
+          "text": "mutawatir"
+        }
+      ],
+      "/Usul-Fiqh/Introduction-to-Usul-Fiqh": [
+        {
+          "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "target": "/Hadith/maudoo",
+          "text": "maudoo"
+        },
+        {
+          "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "target": "/Usul-Fiqh/Glossary/Qati",
+          "text": "Qat'i"
+        },
+        {
+          "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "target": "/Usul-Fiqh/Glossary/Dhannee",
+          "text": "Dhannee"
+        },
+        {
+          "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "target": "/Usul-Fiqh/Glossary/At-thuboot",
+          "text": "At-thuboot"
+        },
+        {
+          "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "target": "/Usul-Fiqh/Glossary/Ad-dalalah",
+          "text": "Ad-dalalah"
+        },
+        {
+          "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "target": "/Usul-Fiqh/Glossary/mutawatir",
+          "text": "mutawatir"
+        },
+        {
+          "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "target": "/Usul-Fiqh/Glossary/mutawatir",
+          "text": "mutawatir"
+        },
+        {
+          "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "target": "/Hadith/khabr-wahid",
+          "text": "khabr wahid"
+        }
+      ],
+      "/Usul-Fiqh/Quranic-words/Khas": [
+        {
+          "source": "/Usul-Fiqh/Quranic-words/Khas",
+          "target": "/Usul-Fiqh/Glossary/Qati",
+          "text": "Qat'i"
+        },
+        {
+          "source": "/Usul-Fiqh/Quranic-words/Khas",
+          "target": "/Usul-Fiqh/Glossary/Dhannee",
+          "text": "Dhannee"
+        },
+        {
+          "source": "/Usul-Fiqh/Quranic-words/Khas",
+          "target": "/Usul-Fiqh/Glossary/At-thuboot",
+          "text": "At-thuboot"
+        },
+        {
+          "source": "/Usul-Fiqh/Quranic-words/Khas",
+          "target": "/Hadith/khabr-wahid",
+          "text": "khabr wahid"
+        },
+        {
+          "source": "/Usul-Fiqh/Quranic-words/Khas",
+          "target": "/Imam-Shafii",
+          "text": "Imam Shafi'i"
+        }
+      ],
+      "/Usul-Fiqh/Quranic-words/Understanding-Quranic-words": [
+        {
+          "source": "/Usul-Fiqh/Quranic-words/Understanding-Quranic-words",
+          "target": "/Usul-Fiqh/Quranic-words/Khas",
+          "text": "Khas"
+        },
+        {
+          "source": "/Usul-Fiqh/Quranic-words/Understanding-Quranic-words",
+          "target": "/Usul-Fiqh/Quranic-words/Aam",
+          "text": "Aam"
+        }
+      ]
+    },
+    "backlinks": {
+      "/Hadith/khabr-wahid": [
+        {
+          "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "target": "/Hadith/khabr-wahid",
+          "text": "khabr wahid"
+        },
+        {
+          "source": "/Usul-Fiqh/Quranic-words/Khas",
+          "target": "/Hadith/khabr-wahid",
+          "text": "khabr wahid"
+        }
+      ],
+      "/Hadith/maudoo": [
+        {
+          "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "target": "/Hadith/maudoo",
+          "text": "maudoo"
+        }
+      ],
+      "/Imam-Shafii": [
+        {
+          "source": "/Usul-Fiqh/Quranic-words/Khas",
+          "target": "/Imam-Shafii",
+          "text": "Imam Shafi'i"
+        }
+      ],
+      "/Usul-Fiqh/Glossary/Ad-dalalah": [
+        {
+          "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "target": "/Usul-Fiqh/Glossary/Ad-dalalah",
+          "text": "Ad-dalalah"
+        }
+      ],
+      "/Usul-Fiqh/Glossary/At-thuboot": [
+        {
+          "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "target": "/Usul-Fiqh/Glossary/At-thuboot",
+          "text": "At-thuboot"
+        },
+        {
+          "source": "/Usul-Fiqh/Quranic-words/Khas",
+          "target": "/Usul-Fiqh/Glossary/At-thuboot",
+          "text": "At-thuboot"
+        }
+      ],
+      "/Usul-Fiqh/Glossary/Dhannee": [
+        {
+          "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "target": "/Usul-Fiqh/Glossary/Dhannee",
+          "text": "Dhannee"
+        },
+        {
+          "source": "/Usul-Fiqh/Quranic-words/Khas",
+          "target": "/Usul-Fiqh/Glossary/Dhannee",
+          "text": "Dhannee"
+        }
+      ],
+      "/Usul-Fiqh/Glossary/Qati": [
+        {
+          "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "target": "/Usul-Fiqh/Glossary/Qati",
+          "text": "Qat'i"
+        },
+        {
+          "source": "/Usul-Fiqh/Quranic-words/Khas",
+          "target": "/Usul-Fiqh/Glossary/Qati",
+          "text": "Qat'i"
+        }
+      ],
+      "/Usul-Fiqh/Glossary/mutawatir": [
+        {
+          "source": "/Usul-Fiqh/Glossary/At-thuboot",
+          "target": "/Usul-Fiqh/Glossary/mutawatir",
+          "text": "mutawatir"
+        },
+        {
+          "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "target": "/Usul-Fiqh/Glossary/mutawatir",
+          "text": "mutawatir"
+        },
+        {
+          "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "target": "/Usul-Fiqh/Glossary/mutawatir",
+          "text": "mutawatir"
+        }
+      ],
+      "/Usul-Fiqh/Introduction-to-Usul-Fiqh": [
+        {
+          "source": "/",
+          "target": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+          "text": "Introduction to Usul Fiqh"
+        }
+      ],
+      "/Usul-Fiqh/Quranic-words/Aam": [
+        {
+          "source": "/Usul-Fiqh/Quranic-words/Understanding-Quranic-words",
+          "target": "/Usul-Fiqh/Quranic-words/Aam",
+          "text": "Aam"
+        }
+      ],
+      "/Usul-Fiqh/Quranic-words/Khas": [
+        {
+          "source": "/Usul-Fiqh/Quranic-words/Understanding-Quranic-words",
+          "target": "/Usul-Fiqh/Quranic-words/Khas",
+          "text": "Khas"
+        }
+      ],
+      "/Usul-Fiqh/Quranic-words/Understanding-Quranic-words": [
+        {
+          "source": "/",
+          "target": "/Usul-Fiqh/Quranic-words/Understanding-Quranic-words",
+          "text": "Understanding Qur'anic words"
+        }
+      ]
+    }
+  },
+  "links": [
+    {
+      "source": "/Usul-Fiqh/Glossary/At-thuboot",
+      "target": "/Usul-Fiqh/Glossary/mutawatir",
+      "text": "mutawatir"
+    },
+    {
+      "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+      "target": "/Hadith/maudoo",
+      "text": "maudoo"
+    },
+    {
+      "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+      "target": "/Usul-Fiqh/Glossary/Qati",
+      "text": "Qat'i"
+    },
+    {
+      "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+      "target": "/Usul-Fiqh/Glossary/Dhannee",
+      "text": "Dhannee"
+    },
+    {
+      "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+      "target": "/Usul-Fiqh/Glossary/At-thuboot",
+      "text": "At-thuboot"
+    },
+    {
+      "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+      "target": "/Usul-Fiqh/Glossary/Ad-dalalah",
+      "text": "Ad-dalalah"
+    },
+    {
+      "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+      "target": "/Usul-Fiqh/Glossary/mutawatir",
+      "text": "mutawatir"
+    },
+    {
+      "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+      "target": "/Usul-Fiqh/Glossary/mutawatir",
+      "text": "mutawatir"
+    },
+    {
+      "source": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+      "target": "/Hadith/khabr-wahid",
+      "text": "khabr wahid"
+    },
+    {
+      "source": "/Usul-Fiqh/Quranic-words/Khas",
+      "target": "/Usul-Fiqh/Glossary/Qati",
+      "text": "Qat'i"
+    },
+    {
+      "source": "/Usul-Fiqh/Quranic-words/Khas",
+      "target": "/Usul-Fiqh/Glossary/Dhannee",
+      "text": "Dhannee"
+    },
+    {
+      "source": "/Usul-Fiqh/Quranic-words/Khas",
+      "target": "/Usul-Fiqh/Glossary/At-thuboot",
+      "text": "At-thuboot"
+    },
+    {
+      "source": "/Usul-Fiqh/Quranic-words/Khas",
+      "target": "/Hadith/khabr-wahid",
+      "text": "khabr wahid"
+    },
+    {
+      "source": "/Usul-Fiqh/Quranic-words/Khas",
+      "target": "/Imam-Shafii",
+      "text": "Imam Shafi'i"
+    },
+    {
+      "source": "/Usul-Fiqh/Quranic-words/Understanding-Quranic-words",
+      "target": "/Usul-Fiqh/Quranic-words/Khas",
+      "text": "Khas"
+    },
+    {
+      "source": "/Usul-Fiqh/Quranic-words/Understanding-Quranic-words",
+      "target": "/Usul-Fiqh/Quranic-words/Aam",
+      "text": "Aam"
+    },
+    {
+      "source": "/",
+      "target": "/Usul-Fiqh/Introduction-to-Usul-Fiqh",
+      "text": "Introduction to Usul Fiqh"
+    },
+    {
+      "source": "/",
+      "target": "/Usul-Fiqh/Quranic-words/Understanding-Quranic-words",
+      "text": "Understanding Qur'anic words"
+    }
+  ]
+}
