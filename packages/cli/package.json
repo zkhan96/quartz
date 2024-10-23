@@ -2,12 +2,12 @@
   "name": "@jackyzha0/quartz",
   "description": "🌱 publish your digital garden and notes as a website",
   "version": "4.0.3",
-  "author": "jackyzha0 <j.zhao2k19@gmail.com>",
+  "author": "zkhan96 <zohaib.m.khan96@gmail.com>",
   "license": "MIT",
-  "homepage": "https://quartz.jzhao.xyz",
+  "homepage": "https://dars.zohaibkham.co.uk",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackyzha0/quartz.git",
+    "url": "https://github.com/zkhan96/quartz.git",
     "directory": "packages/cli"
   },
   "keywords": [
