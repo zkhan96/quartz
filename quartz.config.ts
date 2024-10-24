@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "dars.zohaibkhan.co.uk",
     ignorePatterns: ["private", "templates", ".obsidian"],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -57,7 +57,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "filesystem"],
+        priority: ["git", "frontmatter", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {
@@ -66,10 +66,10 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true }),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CrawlLinks({ markdownLinkResolution: "absolute" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
@@ -81,8 +81,8 @@ const config: QuartzConfig = {
       Plugin.FolderPage(),
       Plugin.TagPage(),
       Plugin.ContentIndex({
-        enableSiteMap: false,
-        enableRSS: false,
+        enableSiteMap: true,
+        enableRSS: true,
       }),
       Plugin.Assets(),
       Plugin.Static(),
